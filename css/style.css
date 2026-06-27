@@ -742,6 +742,15 @@ section {
     color: var(--text-muted);
 }
 
+/* Tecnologias dos projetos */
+
+.project-tech {
+    margin: 1rem 0;
+    font-size: 0.9rem;
+    font-weight: 600;
+    opacity: 0.8;
+}
+
 /* =========================
    CONTATO
 ========================= */
